@@ -1,3 +1,7 @@
+// Number = 9
+// Square = 9*9 = 81
+// Digits Sum = 8+1 = 9 == Number i.e. Neon Number.
+
 class Neon
 {
     public static void main(String args[])
